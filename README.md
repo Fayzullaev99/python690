@@ -1,0 +1,1 @@
+Kommanda bo'lib ishlash
